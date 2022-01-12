@@ -16,6 +16,6 @@ Day 3
 
 Problem 1 : [ArrayList and String Manip] Sum of elements of two arrayList, splitting sum>9 
 
-Problem 2 : [Maps] Checking if it possible to group a list of numbers into consecutive numbers of k size.
+Problem 2 : [Maps] Checking if its possible to group a list of numbers into consecutive numbers of k size.
 
 Problem 3 : [HashSet] Print the string if only one row of keyboard was used.
