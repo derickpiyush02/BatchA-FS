@@ -1,4 +1,5 @@
 import java.util.*;
+
 public class group {
     public static boolean check(String[] st,int k) {
         if(k>st.length || st.length%k!=0) 
