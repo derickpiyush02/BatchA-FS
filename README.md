@@ -19,3 +19,13 @@ Problem 1 : [ArrayList and String Manip] Sum of elements of two arrayList, split
 Problem 2 : [Maps] Checking if its possible to group a list of numbers into consecutive numbers of k size.
 
 Problem 3 : [HashSet] Print the string if only one row of keyboard was used.
+
+Day 4
+-----------------
+(17 Jan, 2022)
+
+Problem 1 : [Maps] Check if two words are isomorphic or not 
+
+Problem 2 : [Sets] Intersection of 3 integer arrays.
+
+Problem 3 : 
