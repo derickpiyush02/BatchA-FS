@@ -29,3 +29,13 @@ Problem 1 : [Maps] Check if two words are isomorphic or not
 Problem 2 : [Sets] Intersection of 3 integer arrays.
 
 Problem 3 : 
+
+Day 5
+-----------------
+(18 Jan, 2022)
+
+Problem 1 : [Basic Pattern] Print square binary matrix with odd dimensions and middle row and column contains only 0's and everything else 1's
+
+Problem 2 : [DP] Splitting an array into two subsequences having same sum.
+
+Problem 3 : [String Permutations] Check if the string is a special string or not 
