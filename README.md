@@ -39,3 +39,12 @@ Problem 1 : [Basic Pattern] Print square binary matrix with odd dimensions and m
 Problem 2 : [DP] Splitting an array into two subsequences having same sum.
 
 Problem 3 : [String Permutations] Check if the string is a special string or not 
+
+Day 6
+-----------------
+(19 Jan, 2022)
+
+Problem 1 : [LinkedHashSet] Distinct string elements in order
+
+Problem 2 : [Backtracking] Splitting a String Into Descending Consecutive Values
+
