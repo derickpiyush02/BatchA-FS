@@ -48,3 +48,11 @@ Problem 1 : [LinkedHashSet] Distinct string elements in order
 
 Problem 2 : [Backtracking] Splitting a String Into Descending Consecutive Values
 
+Day 7
+-----------------
+(20 Jan, 2022)
+
+Problem 1 : [Basic Loops and DP] Printing Fibonnaacci Series in a jagged manner
+
+Problem 2 : [Prefix Sum Check] Largest Magic Square in a MxN Matrix
+
