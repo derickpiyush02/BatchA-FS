@@ -56,3 +56,11 @@ Problem 1 : [Basic Loops and DP] Printing Fibonnaacci Series in a jagged manner
 
 Problem 2 : [Prefix Sum Check] Largest Magic Square in a MxN Matrix
 
+Day 8
+-----------------
+(24 Jan, 2022)
+
+Problem 1 : [Loops] Convert Integer inputs to Roman Numerals
+
+Problem 2 : [HashSets] Check if String cant be broken into given words
+
