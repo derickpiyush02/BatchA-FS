@@ -64,3 +64,18 @@ Problem 1 : [Loops] Convert Integer inputs to Roman Numerals
 
 Problem 2 : [HashSets] Check if String cant be broken into given words
 
+Day 9
+-----------------
+(25 Jan, 2022)
+
+Problem 1 : 
+
+Problem 2 : [Loops and Matrix] Given the perimeter of the single island
+
+
+Day 10
+-----------------
+(27 Jan, 2022)
+
+Problem 1 : [GCD/Mathematics] Given two jugs, can we obtain the required amount of milk.
+
