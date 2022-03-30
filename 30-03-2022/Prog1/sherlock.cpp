@@ -13,6 +13,9 @@ int main() {
     for(auto x: m) {
         res[x.second]++;
     }
+    if(res.size()>2) {
+        flag = 1;
+    }
     for(auto x: res) {
         if(x.first%2!=0 && x.second>1) {
             flag = 1;
